@@ -1,25 +1,7 @@
-### Hi there 👋
+## Muhammad Abu 'l-Gharaniq 👋
 
-<!--
-**midoghranek/midoghranek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### UI UX Designer and Frontend Developer ✨
 
 Hello, My name is Muhammad Abu 'l-Gharaniq, I'm working as a full stack web designer, I'm designing and developing Mobile and Web Apps.
 
-Website: https://ghranek.com
-Github: https://github.com/midoghranek
-Resume: https://ghranek.com/cv
-Portfolio: https://ghranek.com/portfolio
-Email: me@ghranek.com 
+[Website](https://ghranek.com) - [CV](https://ghranek.com/cv) - [Portfolio](https://ghranek.com/portfolio) - [Email](mailto:me@ghranek.com)
