@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hello, My name is Muhammad Abu 'l-Gharaniq, I'm working as a full stack web designer, I'm designing and developing Mobile and Web Apps.
+
+Website: https://ghranek.com
+Github: https://github.com/midoghranek
+Resume: https://ghranek.com/cv
+Portfolio: https://ghranek.com/portfolio
+Email: me@ghranek.com 
