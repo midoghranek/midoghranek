@@ -1,6 +1,6 @@
 <h2 align="center">I'm Muhammad Abu'l-Gharaniq 👋</h2>
 
-<h5 align="center">Frontend Specialist</h5>
+<h3 align="center">Frontend Specialist</h3>
 
 ###
 
