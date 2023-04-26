@@ -1,4 +1,6 @@
-<h2 align="center">I'm Abu'l-Gharaniq 👋</h2>
+<h2 align="center">I'm Muhammad Abu'l-Gharaniq 👋</h2>
+
+<h5 align="center">Frontend Specialist</h5>
 
 ###
 
